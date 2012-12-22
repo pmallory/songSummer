@@ -1,7 +1,9 @@
 SongSummer
 ==========
 
-A tool to see how much time you've spent listening to songs in iTunes.
+A tool to see how much total time you've spent listening to songs in iTunes.
+
+![action shot](screenshot.png)
 
 installation
 ------------
