@@ -8,7 +8,7 @@ A tool to see how much total time you've spent listening to songs in iTunes.
 Installation
 ------------
 
-put songSummer.applescript in `~/Library/iTunes/Scripts`. If the directory doesn't exist create it.
+put songSummer.applescript in `~/Library/iTunes/Scripts`. Create the directory if it doesn't exist.
 
 Usage
 -----
